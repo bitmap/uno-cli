@@ -1,0 +1,18 @@
+{
+  "name": "uno-cli",
+  "version": "0.0.1",
+  "description": "For making internet.",
+  "repository": "https://github.com/cincodesign/uno-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "uno": "./index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.11.0"
+  }
+}
